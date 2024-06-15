@@ -77,3 +77,11 @@ th {
 }
 
 /* End minireset */
+
+body {
+  font-family: "Jost", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+}

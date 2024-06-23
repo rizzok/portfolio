@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
 const StyledProject = styled.div`
-  margin: 80px 0;
+  margin-top: 80px;
 `
 
 const ProjectsContainer = styled.div`

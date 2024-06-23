@@ -1,0 +1,3 @@
+- Scroll smooth on nav link click
+- Back to top button
+- Responsive

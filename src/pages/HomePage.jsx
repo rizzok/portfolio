@@ -2,8 +2,8 @@ import Footer from '../components/Footer'
 import Header from '../components/Header'
 import About from '../components/About'
 import Projects from '../components/Projects'
-import Contact from '../components/Contact'
 import styled from 'styled-components'
+import Experience from '../components/Experience'
 
 const StyledMain = styled.main`
   flex: 1;
@@ -16,8 +16,8 @@ const HomePage = () => {
       <Header />
       <StyledMain>
         <About />
+        <Experience />
         <Projects />
-        <Contact />
       </StyledMain>
       <Footer />
     </>
